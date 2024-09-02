@@ -1,4 +1,4 @@
-# flutter_fast_track
+# flutter_basic
 
 A new Flutter project.
 
